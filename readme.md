@@ -2,6 +2,14 @@
 
 GenWebServer is a simple web server written in C to provide basic HTTP service. 
 
+
+## Features
+
+- Static Content Hosting.
+- Access Logging.
+- IP Whitelisting.
+- Customizable Port.
+
 ## Configuration
 
 The server reads its settings from `/data/genwebserver/genwebserver.conf`:
