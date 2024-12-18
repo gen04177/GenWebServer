@@ -9,6 +9,7 @@ GenWebServer is a simple web server written in C to provide basic HTTP service.
 - Access Logging.
 - IP Whitelisting.
 - Customizable Port.
+- Custom Error Messaging.
 
 ## Configuration
 
