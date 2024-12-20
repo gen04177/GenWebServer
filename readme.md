@@ -62,14 +62,17 @@ This configuration:
 3. Access the server at `http://ps5:<port>` (default port: `8000`) or `http://ps5:<port>/index.html`.
 
 
-## Website example:
+## Website examples:
 
-<div align = center>
+<div align="center">
 
-<img width = 875 src = ./genwebserver-test.png> 
- 
+<img width="875" src="./genwebserver-test01.png">
 <br>
-<p><em>FMI: https://github.com/EmulatorJS/EmulatorJS</em></p>
+<p><em>website-example: <a href="https://github.com/attogram/games">https://github.com/attogram/games</a></em></p>
+
+<img width="875" src="./genwebserver-test02.png">
+<br>
+<p><em>website-example02: <a href="https://github.com/EmulatorJS/EmulatorJS">https://github.com/EmulatorJS/EmulatorJS</a></em></p>
 
 </div>
 
