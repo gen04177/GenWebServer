@@ -61,6 +61,19 @@ This configuration:
 2. Send the `genwebserver.elf` payload to port 9021.
 3. Access the server at `http://ps5:<port>` (default port: `8000`) or `http://ps5:<port>/index.html`.
 
+
+## Website example:
+
+<div align = center>
+
+<img width = 875 src = ./genwebserver-test.png> 
+ 
+<br>
+<p><em>FMI: https://github.com/EmulatorJS/EmulatorJS</em></p>
+
+</div>
+
+
 ## Credits
 
 - ps5-payload-sdk
