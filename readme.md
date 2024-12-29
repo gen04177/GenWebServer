@@ -76,6 +76,13 @@ This configuration:
 
 </div>
 
+## Recommendations:
+
+Because of the PS5 browser's limitations* and to keep things secure, it's best to access GenWebServer remotely only from devices connected to your local network.
+
+
+* Things like audio issues, no WebGL support, no permissions to access internal files, etc.
+
 
 ## Credits
 
