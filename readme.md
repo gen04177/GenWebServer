@@ -62,7 +62,15 @@ This configuration:
 3. Access the server at `http://ps5:<port>` (default port: `8000`) or `http://ps5:<port>/index.html`.
 
 
-## Website examples:
+## Recommendations
+
+Because of the PS5 browser's limitations¹ and to keep things secure, it's best to access GenWebServer remotely only from devices connected to your local network.
+
+
+¹Things like audio issues, no WebGL support, no permissions to access internal files, etc.
+
+
+## Website examples
 
 <div align="center">
 
@@ -75,14 +83,6 @@ This configuration:
 <p><em>website-example02: <a href="https://github.com/EmulatorJS/EmulatorJS">https://github.com/EmulatorJS/EmulatorJS</a></em></p>
 
 </div>
-
-## Recommendations:
-
-Because of the PS5 browser's limitations¹ and to keep things secure, it's best to access GenWebServer remotely only from devices connected to your local network.
-
-
-¹Things like audio issues, no WebGL support, no permissions to access internal files, etc.
-
 
 ## Credits
 
